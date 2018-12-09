@@ -22,8 +22,7 @@
     "test": "IP=0.0.0.0 PORT=3030 mocha --timeout 5000 tests/*_test.js"
   },
   "devDependencies": {
-    "gulp": ">=3.9.1",
-    "gulp-cli": ">=3.9.1"
+    "gulp": ">=3.9.1"
   },
   "repository": {
     "type": "git",
